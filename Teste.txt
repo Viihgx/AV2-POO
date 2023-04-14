@@ -1,0 +1,1 @@
+Este é um texto de exemplo contendo várias palavras. Algumas dessas palavras contêm a subsequência "link", como "linkado", "hyperlink" e "linkar". Outras palavras que também contêm a subsequência "link" são "blink" e "clink". O objetivo deste programa é buscar por todas as palavras que contêm a subsequência "link" e retorná-las em uma lista.
